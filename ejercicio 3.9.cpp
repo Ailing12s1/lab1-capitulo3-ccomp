@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "accountssettingspaneinterop.h"
+#include "Account.h"
 using namespace std;
 
 class Account{
